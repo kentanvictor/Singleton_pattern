@@ -1,7 +1,7 @@
 package com.dell.example.StrategyDemo;
 
-/**
- * Created by 20304 on 2017/11/25.
+/*
+ * Created by JohnnyTan on 2017/11/25.
  */
 public abstract class Strategy {
 
